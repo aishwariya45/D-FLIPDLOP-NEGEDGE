@@ -9,6 +9,9 @@ To implement  D flipflop using verilog and validating their functionality using 
 Quartus prime
 
 **THEORY**
+![image](https://github.com/user-attachments/assets/ad7676a8-583f-4286-b932-4cecf0cb0ea8)
+
+![image](https://github.com/user-attachments/assets/5e44c5da-d76b-4c0e-8a0a-953ac2f11dc2)
 
 **D Flip-Flop**
 
@@ -64,8 +67,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Uploading Screenshot 2024-12-03 062407.png…]()
-
+![Screenshot 2024-12-03 062407](https://github.com/user-attachments/assets/8c954c47-1445-461c-b162-3be6c4577269)
 
 
 
